@@ -1,5 +1,5 @@
 backend:
-  name: git-gateway
+  name: github
   repo: mnyrop/janet
   branch: master
   site_domain: gracious-stallman-a09fa4.netlify.com
