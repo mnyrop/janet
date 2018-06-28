@@ -1,8 +1,8 @@
 backend:
-  name: github
+  name: git-gateway
   repo: mnyrop/janet
   branch: master
-  site_domain: gracious-stallman-a09fa4.netlify.com/
+  site_domain: gracious-stallman-a09fa4.netlify.com
 media_folder: "images/uploads"
 collections:
   - name: "post" # Used in routes, e.g. /admin/collections/blog
